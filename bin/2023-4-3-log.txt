@@ -1,0 +1,10 @@
+20:17:55 =>[info] service name:UserServiceRpc
+20:17:55 =>[info] method name:Login
+20:17:55 =>[info] method name:Resist
+20:50:40 =>[info] service name:UserServiceRpc
+20:50:40 =>[info] method name:Login
+20:50:40 =>[info] method name:Resist
+20:50:40 =>[error] rpc client disconnected
+20:51:2 =>[error] rpc client disconnected
+20:51:2 =>[error] rpc client disconnected
+20:52:36 =>[error] rpc client disconnected

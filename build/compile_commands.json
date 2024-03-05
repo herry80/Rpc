@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/my/桌面/rpc分布式网络架构/build/src",
+  "command": "/usr/bin/g++   -I/home/my/桌面/rpc分布式网络架构/src/include -I/home/my/桌面/rpc分布式网络架构/example  -g   -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/my/桌面/rpc分布式网络架构/src/mprpcapplication.cc",
+  "file": "/home/my/桌面/rpc分布式网络架构/src/mprpcapplication.cc"
+},
+{
+  "directory": "/home/my/桌面/rpc分布式网络架构/build/src",
+  "command": "/usr/bin/g++   -I/home/my/桌面/rpc分布式网络架构/src/include -I/home/my/桌面/rpc分布式网络架构/example  -g   -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /home/my/桌面/rpc分布式网络架构/src/mprpcconfig.cc",
+  "file": "/home/my/桌面/rpc分布式网络架构/src/mprpcconfig.cc"
+},
+{
+  "directory": "/home/my/桌面/rpc分布式网络架构/build/src",
+  "command": "/usr/bin/g++   -I/home/my/桌面/rpc分布式网络架构/src/include -I/home/my/桌面/rpc分布式网络架构/example  -g   -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/my/桌面/rpc分布式网络架构/src/rpcheader.pb.cc",
+  "file": "/home/my/桌面/rpc分布式网络架构/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/my/桌面/rpc分布式网络架构/build/src",
+  "command": "/usr/bin/g++   -I/home/my/桌面/rpc分布式网络架构/src/include -I/home/my/桌面/rpc分布式网络架构/example  -g   -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/my/桌面/rpc分布式网络架构/src/rpcprovider.cc",
+  "file": "/home/my/桌面/rpc分布式网络架构/src/rpcprovider.cc"
+},
+{
+  "directory": "/home/my/桌面/rpc分布式网络架构/build/src",
+  "command": "/usr/bin/g++   -I/home/my/桌面/rpc分布式网络架构/src/include -I/home/my/桌面/rpc分布式网络架构/example  -g   -o CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /home/my/桌面/rpc分布式网络架构/src/mprpcchannel.cc",
+  "file": "/home/my/桌面/rpc分布式网络架构/src/mprpcchannel.cc"
+},
+{
+  "directory": "/home/my/桌面/rpc分布式网络架构/build/src",
+  "command": "/usr/bin/g++   -I/home/my/桌面/rpc分布式网络架构/src/include -I/home/my/桌面/rpc分布式网络架构/example  -g   -o CMakeFiles/mprpc.dir/mprpccontroller.cc.o -c /home/my/桌面/rpc分布式网络架构/src/mprpccontroller.cc",
+  "file": "/home/my/桌面/rpc分布式网络架构/src/mprpccontroller.cc"
+},
+{
+  "directory": "/home/my/桌面/rpc分布式网络架构/build/src",
+  "command": "/usr/bin/g++   -I/home/my/桌面/rpc分布式网络架构/src/include -I/home/my/桌面/rpc分布式网络架构/example  -g   -o CMakeFiles/mprpc.dir/logger.cc.o -c /home/my/桌面/rpc分布式网络架构/src/logger.cc",
+  "file": "/home/my/桌面/rpc分布式网络架构/src/logger.cc"
+},
+{
+  "directory": "/home/my/桌面/rpc分布式网络架构/build/src",
+  "command": "/usr/bin/g++   -I/home/my/桌面/rpc分布式网络架构/src/include -I/home/my/桌面/rpc分布式网络架构/example  -g   -o CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c /home/my/桌面/rpc分布式网络架构/src/zookeeperutil.cc",
+  "file": "/home/my/桌面/rpc分布式网络架构/src/zookeeperutil.cc"
+},
+{
+  "directory": "/home/my/桌面/rpc分布式网络架构/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/my/桌面/rpc分布式网络架构/src/include -I/home/my/桌面/rpc分布式网络架构/example  -g   -o CMakeFiles/provider.dir/userservice.cc.o -c /home/my/桌面/rpc分布式网络架构/example/callee/userservice.cc",
+  "file": "/home/my/桌面/rpc分布式网络架构/example/callee/userservice.cc"
+},
+{
+  "directory": "/home/my/桌面/rpc分布式网络架构/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/my/桌面/rpc分布式网络架构/src/include -I/home/my/桌面/rpc分布式网络架构/example  -g   -o CMakeFiles/provider.dir/__/user.pb.cc.o -c /home/my/桌面/rpc分布式网络架构/example/user.pb.cc",
+  "file": "/home/my/桌面/rpc分布式网络架构/example/user.pb.cc"
+},
+{
+  "directory": "/home/my/桌面/rpc分布式网络架构/build/example/caller",
+  "command": "/usr/bin/g++   -I/home/my/桌面/rpc分布式网络架构/src/include -I/home/my/桌面/rpc分布式网络架构/example  -g   -o CMakeFiles/consumer.dir/calluserservice.cc.o -c /home/my/桌面/rpc分布式网络架构/example/caller/calluserservice.cc",
+  "file": "/home/my/桌面/rpc分布式网络架构/example/caller/calluserservice.cc"
+},
+{
+  "directory": "/home/my/桌面/rpc分布式网络架构/build/example/caller",
+  "command": "/usr/bin/g++   -I/home/my/桌面/rpc分布式网络架构/src/include -I/home/my/桌面/rpc分布式网络架构/example  -g   -o CMakeFiles/consumer.dir/__/user.pb.cc.o -c /home/my/桌面/rpc分布式网络架构/example/user.pb.cc",
+  "file": "/home/my/桌面/rpc分布式网络架构/example/user.pb.cc"
+}
+]

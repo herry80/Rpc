@@ -1,0 +1,36 @@
+syntax = "proto3";
+package fixbug;//
+
+message LoginRequest
+{
+    string name=1;
+    string pwd=2;
+}
+
+message LoginResponse
+{
+    int32 errcode=1;
+    string errmsg=2;
+    bool success=3;
+}
+
+message GetFriendListsRequest
+{
+    uint32 userid=1;
+}
+
+message user
+{
+    bytes name=1;
+    uint32 age=2;
+    enum Sex{
+        MAN=0;WOMAN=1;
+    }
+    Sex sex=3;
+}
+message GetFriendListsResponse
+{
+    int32 errcode=1;
+    string errmsg=2;
+    repeated user users=3;
+}

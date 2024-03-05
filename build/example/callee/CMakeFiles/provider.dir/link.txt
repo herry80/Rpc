@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/provider.dir/userservice.cc.o CMakeFiles/provider.dir/__/user.pb.cc.o  -o ../../../bin/provider   -L/home/my/桌面/rpc分布式网络架构/lib  -Wl,-rpath,/home/my/桌面/rpc分布式网络架构/lib ../../../lib/libmprpc.a -lprotobuf -lmuduo_net -lmuduo_base -lpthread -lzookeeper_mt 
